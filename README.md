@@ -20,12 +20,7 @@ This is a Python-based Student Attendance Management System designed to manage s
 1. Install Python.
 2. Download or clone this repository.
 3. Open a terminal in the project folder.
-4. Run the Python file using:
-
-   `python your_filename.py`
-
-   Replace `your_filename.py` with your actual Python file name.
-
+4. Run the Python file 
 ## Data Storage
 Student information and attendance records are stored in `students.json`.
 
